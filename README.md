@@ -31,176 +31,64 @@
   <hr style="border:1px solid #333; margin:2em 0;">
 
   <h2 style="color:#fff;">🧰 Tech Arsenal</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 24px; justify-items: center; align-items: end; margin-bottom: 2em;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="React"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">React</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Python"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Python</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Node.js"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Node.js</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="JavaScript"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">JavaScript</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="HTML5"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">HTML5</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="CSS3"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">CSS3</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="TailwindCSS"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">TailwindCSS</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="PostgreSQL"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">PostgreSQL</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="MongoDB"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">MongoDB</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="TensorFlow"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">TensorFlow</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Docker"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Docker</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Git"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Git</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Figma"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Figma</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Flutter"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Flutter</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Java"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Java</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="C"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">C</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="C++"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">C++</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="MySQL"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">MySQL</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Express"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Express</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Flask"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Flask</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Django"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Django</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Next.js"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Next.js</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="React Native"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">React Native</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="PyTorch"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">PyTorch</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="scikit-learn"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">scikit-learn</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Pandas"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Pandas</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="NumPy"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">NumPy</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Keras"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Keras</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Matplotlib"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Matplotlib</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="OpenCV"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">OpenCV</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Streamlit"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Streamlit</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Firebase"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Firebase</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Google Cloud"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Google Cloud</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Heroku"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Heroku</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Vercel"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Vercel</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Anaconda"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Anaconda</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Deno"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Deno</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="NPM"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">NPM</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Chart.js"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Chart.js</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Adobe"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Adobe</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt="Canva"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">Canva</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:40px; width:auto; display:block; margin-bottom:0.3em;" alt=".Net"/>
-      <span style="color:#fff; font-size:0.95em; text-align:center;">.Net</span>
-    </div>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>React</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br/>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>Node.js</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br/>JavaScript</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><br/>HTML5</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br/>CSS3</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/><br/>TailwindCSS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/>PostgreSQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/><br/>MongoDB</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/><br/>TensorFlow</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><br/>Docker</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br/>Git</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/><br/>Figma</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/><br/>Flutter</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br/>Java</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/><br/>C</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br/>C++</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br/>MySQL</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/><br/>Express</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/><br/>Flask</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/><br/>Django</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/><br/>React Native</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/><br/>PyTorch</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/><br/>scikit-learn</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/><br/>Pandas</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/><br/>NumPy</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/><br/>Keras</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/><br/>Matplotlib</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/><br/>OpenCV</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit"/><br/>Streamlit</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br/>Firebase</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/><br/>Google Cloud</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/><br/>Heroku</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel"/><br/>Vercel</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br/>Anaconda</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno"/><br/>Deno</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/><br/>NPM</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js"/><br/>Chart.js</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" height="40" alt="Adobe"/><br/>Adobe</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/><br/>Canva</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".Net"/><br/>.Net</td>
+    </tr>
+  </table>
 
   <hr style="border:1px solid #333; margin:2em 0;">
 
